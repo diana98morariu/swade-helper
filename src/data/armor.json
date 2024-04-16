@@ -1,0 +1,412 @@
+{
+  "medieval_ancient_armor": [
+    {
+      "id": 1,
+      "name": "Jacket",
+      "type": "CLOTH/LIGHT LEATHER",
+      "armor": "+1",
+      "min_strength": "d4",
+      "weight": "5",
+      "cost": "20"
+    },
+    {
+      "id": 2,
+      "name": "Robes",
+      "type": "CLOTH/LIGHT LEATHER",
+      "armor": "+1",
+      "min_strength": "d4",
+      "weight": "8",
+      "cost": "30"
+    },
+    {
+      "id": 3,
+      "name": "Leggings",
+      "type": "CLOTH/LIGHT LEATHER",
+      "armor": "+1",
+      "min_strength": "d4",
+      "weight": "5",
+      "cost": "20"
+    },
+    {
+      "id": 4,
+      "name": "Cap",
+      "type": "CLOTH/LIGHT LEATHER",
+      "armor": "+1",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "5"
+    },
+    {
+      "id": 5,
+      "name": "Jacket",
+      "type": "THICK LEATHER/TOUGH HIDES",
+      "armor": "+2",
+      "min_strength": "d6",
+      "weight": "8",
+      "cost": "80"
+    },
+    {
+      "id": 6,
+      "name": "Leggings",
+      "type": "THICK LEATHER/TOUGH HIDES",
+      "armor": "+2",
+      "min_strength": "d6",
+      "weight": "7",
+      "cost": "40"
+    },
+    {
+      "id": 7,
+      "name": "Cap",
+      "type": "THICK LEATHER/TOUGH HIDES",
+      "armor": "+2",
+      "min_strength": "d6",
+      "weight": "1",
+      "cost": "20"
+    },
+    {
+      "id": 8,
+      "name": "Shirt",
+      "type": "CHAIN MAIL",
+      "armor": "+3",
+      "min_strength": "d8",
+      "weight": "25",
+      "cost": "300"
+    },
+    {
+      "id": 9,
+      "name": "Leggings",
+      "type": "CHAIN MAIL",
+      "armor": "+3",
+      "min_strength": "d8",
+      "weight": "10",
+      "cost": "150"
+    },
+    {
+      "id": 10,
+      "name": "Chain Hood or Helm",
+      "type": "CHAIN MAIL",
+      "armor": "+3",
+      "min_strength": "d8",
+      "weight": "4",
+      "cost": "25"
+    },
+    {
+      "id": 11,
+      "name": "Bronze Barding (horse)",
+      "type": "BRONZE ARMOR (PRE-IRON AGE SETTINGS)",
+      "armor": "+3",
+      "min_strength": "d10",
+      "weight": "50",
+      "cost": "1,500"
+    },
+    {
+      "id": 12,
+      "name": "Bronze Corselet",
+      "type": "BRONZE ARMOR (PRE-IRON AGE SETTINGS)",
+      "armor": "+3",
+      "min_strength": "d8",
+      "weight": "13",
+      "cost": "80"
+    },
+    {
+      "id": 13,
+      "name": "Vambraces",
+      "type": "BRONZE ARMOR (PRE-IRON AGE SETTINGS)",
+      "armor": "+3",
+      "min_strength": "d8",
+      "weight": "5",
+      "cost": "40"
+    },
+    {
+      "id": 14,
+      "name": "Greaves",
+      "type": "BRONZE ARMOR (PRE-IRON AGE SETTINGS)",
+      "armor": "+3",
+      "min_strength": "d8",
+      "weight": "6",
+      "cost": "50"
+    },
+    {
+      "id": 15,
+      "name": "Bronze Helmet",
+      "type": "BRONZE ARMOR (PRE-IRON AGE SETTINGS)",
+      "armor": "+3",
+      "min_strength": "d8",
+      "weight": "6",
+      "cost": "25"
+    },
+    {
+      "id": 16,
+      "name": "Plate Barding (horse)",
+      "type": "PLATE MAIL",
+      "armor": "+4",
+      "min_strength": "d10",
+      "weight": "50",
+      "cost": "1,500"
+    },
+    {
+      "id": 17,
+      "name": "Corselet",
+      "type": "PLATE MAIL",
+      "armor": "+4",
+      "min_strength": "d10",
+      "weight": "30",
+      "cost": "500"
+    },
+    {
+      "id": 18,
+      "name": "Vambraces",
+      "type": "PLATE MAIL",
+      "armor": "+4",
+      "min_strength": "d10",
+      "weight": "10",
+      "cost": "200"
+    },
+    {
+      "id": 19,
+      "name": "Greaves",
+      "type": "PLATE MAIL",
+      "armor": "+4",
+      "min_strength": "d10",
+      "weight": "10",
+      "cost": "200"
+    },
+    {
+      "id": 20,
+      "name": "Heavy Helm",
+      "type": "PLATE MAIL",
+      "armor": "+4",
+      "min_strength": "d10",
+      "weight": "4",
+      "cost": "100"
+    },
+    {
+      "id": 21,
+      "name": "Heavy Helm, Enclosed",
+      "type": "PLATE MAIL",
+      "armor": "+4",
+      "min_strength": "d10",
+      "weight": "8",
+      "cost": "200",
+      "notes": "–1 to vision-based Notice rolls."
+    }
+  ],
+  "modern_armor": [
+    {
+      "id": 22,
+      "name": "Thick Coat, Leather Jacket",
+      "type": "CLOTH/LEATHER",
+      "armor": "+1",
+      "min_strength": "d4",
+      "weight": "5",
+      "cost": "100"
+    },
+    {
+      "id": 23,
+      "name": "Leather Riding Chaps",
+      "type": "CLOTH/LEATHER",
+      "armor": "+1",
+      "min_strength": "d4",
+      "weight": "5",
+      "cost": "70"
+    },
+    {
+      "id": 24,
+      "name": "Kevlar Riding Jacket",
+      "type": "CLOTH/LEATHER",
+      "armor": "+2",
+      "min_strength": "d4",
+      "weight": "8",
+      "cost": "350"
+    },
+    {
+      "id": 25,
+      "name": "Kevlar Riding Jeans",
+      "type": "CLOTH/LEATHER",
+      "armor": "+2",
+      "min_strength": "d4",
+      "weight": "4",
+      "cost": "175"
+    },
+    {
+      "id": 26,
+      "name": "Bike Helmet",
+      "type": "CLOTH/LEATHER",
+      "armor": "+2",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "50"
+    },
+    {
+      "id": 27,
+      "name": "Motorcycle Helmet",
+      "type": "CLOTH/LEATHER",
+      "armor": "+3",
+      "min_strength": "d4",
+      "weight": "3",
+      "cost": "100"
+    },
+    {
+      "id": 28,
+      "name": "Flak Jacket (Vietnam-era)",
+      "type": "BODY ARMOR",
+      "armor": "+2",
+      "min_strength": "d6",
+      "weight": "10",
+      "cost": "40"
+    },
+    {
+      "id": 29,
+      "name": "Kevlar Vest",
+      "type": "BODY ARMOR",
+      "armor": "+2*",
+      "min_strength": "d6",
+      "weight": "5",
+      "cost": "200"
+    },
+    {
+      "id": 30,
+      "name": "Kevlar Vest with ceramic inserts",
+      "type": "BODY ARMOR",
+      "armor": "+4*",
+      "min_strength": "d8",
+      "weight": "17",
+      "cost": "500"
+    },
+    {
+      "id": 31,
+      "name": "Kevlar helmet",
+      "type": "BODY ARMOR",
+      "armor": "+4*",
+      "min_strength": "d4",
+      "weight": "5",
+      "cost": "80"
+    },
+    {
+      "id": 32,
+      "name": "Bombproof Suit (entire body)",
+      "type": "BODY ARMOR",
+      "armor": "+10",
+      "min_strength": "d12",
+      "weight": "80",
+      "cost": "25K",
+      "notes": "Bombproof suits aren’t built for flexibility except in the hands, which are uncovered. Agility and related skills that require more than manual dexterity cannot exceed d6 while wearing the suit, and Pace is reduced by 2 (in addition to Minimum Strength penalties)."
+    }
+  ],
+  "futuristic_armor": [
+    {
+      "id": 33,
+      "name": "Energy Skin: Body Armor",
+      "type": "LIGHT/CIVILIAN ARMOR",
+      "armor": "+4*",
+      "min_strength": "d4",
+      "weight": "4",
+      "cost": "200",
+      "notes": "Light, armored clothing made from complex polymers or advanced ballistic weave. Energy Skin reduces damage from lasers by 4. Applying Energy Skin costs 50% of the armor's price and subtracts 2 from Stealth rolls based on vision."
+    },
+    {
+      "id": 34,
+      "name": "Infantry Battle Suit",
+      "type": "MILITARY ARMOR",
+      "armor": "+6*",
+      "min_strength": "d6",
+      "weight": "12",
+      "cost": "800",
+      "notes": "A full suit of armor with boots and gloves."
+    },
+    {
+      "id": 35,
+      "name": "Battle Helmet",
+      "type": "MILITARY ARMOR",
+      "armor": "+6*",
+      "min_strength": "d6",
+      "weight": "2",
+      "cost": "100",
+      "notes": "Full-face helmet for battle situations."
+    }
+  ],
+  "shields": [
+    {
+      "id": 36,
+      "type": "ANCIENT & MEDIEVAL",
+      "name": "Small Shield",
+      "parry": "+1",
+      "cover": "—",
+      "min_strength": "d4",
+      "weight": "4",
+      "cost": "50"
+    },
+    {
+      "id": 37,
+      "type": "ANCIENT & MEDIEVAL",
+      "name": "Medium Shield",
+      "parry": "+2",
+      "cover": "−2",
+      "min_strength": "d6",
+      "weight": "8",
+      "cost": "100"
+    },
+    {
+      "id": 38,
+      "type": "ANCIENT & MEDIEVAL",
+      "name": "Large Shield",
+      "parry": "+3",
+      "cover": "−4",
+      "min_strength": "d8",
+      "weight": "12",
+      "cost": "200"
+    },
+    {
+      "id": 39,
+      "type": "MODERN",
+      "name": "Riot Shield",
+      "parry": "+3",
+      "cover": "−4",
+      "min_strength": "d4",
+      "weight": "5",
+      "cost": "80",
+      "notes": "Reduces damage from firearms by 4 when an attacker tries to shoot through it."
+    },
+    {
+      "id": 40,
+      "type": "MODERN",
+      "name": "Ballistic Shield",
+      "parry": "+3",
+      "cover": "−4",
+      "min_strength": "d6",
+      "weight": "9",
+      "cost": "250",
+      "notes": "Reduces damage from firearms by 4 when an attacker tries to shoot through it."
+    },
+    {
+      "id": 41,
+      "type": "FUTURISTIC",
+      "name": "Polymer Shield, Small",
+      "parry": "+1",
+      "cover": "—",
+      "min_strength": "d4",
+      "weight": "2",
+      "cost": "200"
+    },
+    {
+      "id": 42,
+      "type": "FUTURISTIC",
+      "name": "Polymer Shield, Medium",
+      "parry": "+2",
+      "cover": "−2",
+      "min_strength": "d4",
+      "weight": "4",
+      "cost": "300"
+    },
+    {
+      "id": 43,
+      "type": "FUTURISTIC",
+      "name": "Polymer Shield, Large",
+      "parry": "+3",
+      "cover": "−4",
+      "min_strength": "d6",
+      "weight": "6",
+      "cost": "400"
+    }
+  ]
+}

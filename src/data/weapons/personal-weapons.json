@@ -1,0 +1,509 @@
+{
+  "melee_weapons": [
+    {
+      "id": 1,
+      "type": "MEDIEVAL",
+      "name": "Axe, Hand",
+      "damage": "Str+d6",
+      "min_strength": "d6",
+      "weight": "2",
+      "cost": "100",
+      "notes": "-"
+    },
+    {
+      "id": 2,
+      "type": "MEDIEVAL",
+      "name": "Axe, Battle",
+      "damage": "Str+d8",
+      "min_strength": "d8",
+      "weight": "4",
+      "cost": "300",
+      "notes": "-"
+    },
+    {
+      "id": 3,
+      "type": "MEDIEVAL",
+      "name": "Axe, Great",
+      "damage": "Str+d10",
+      "min_strength": "d10",
+      "weight": "7",
+      "cost": "400",
+      "notes": "AP 2, Parry –1, two hands"
+    },
+    {
+      "id": 4,
+      "type": "MEDIEVAL",
+      "name": "Club, Light",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "2",
+      "cost": "25",
+      "notes": "A sign of low status or thuggery"
+    },
+    {
+      "id": 5,
+      "type": "MEDIEVAL",
+      "name": "Club, Heavy",
+      "damage": "Str+d6",
+      "min_strength": "d6",
+      "weight": "5",
+      "cost": "50",
+      "notes": "A sign of low status or thuggery"
+    },
+    {
+      "id": 6,
+      "type": "MEDIEVAL",
+      "name": "Dagger/Knife",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "25",
+      "notes": "-"
+    },
+    {
+      "id": 7,
+      "type": "MEDIEVAL",
+      "name": "Flail",
+      "damage": "Str+d6",
+      "min_strength": "d6",
+      "weight": "3",
+      "cost": "200",
+      "notes": "Ignores shield bonus"
+    },
+    {
+      "id": 8,
+      "type": "MEDIEVAL",
+      "name": "Halberd",
+      "damage": "Str+d8",
+      "min_strength": "d8",
+      "weight": "6",
+      "cost": "250",
+      "notes": "Reach 1, two hands"
+    },
+    {
+      "id": 9,
+      "type": "MEDIEVAL",
+      "name": "Katana",
+      "damage": "Str+d6+1",
+      "min_strength": "d6",
+      "weight": "3",
+      "cost": "1000",
+      "notes": "Two hands"
+    },
+    {
+      "id": 10,
+      "type": "MEDIEVAL",
+      "name": "Lance",
+      "damage": "Str+d8",
+      "min_strength": "d8",
+      "weight": "6",
+      "cost": "300",
+      "notes": "AP 2 when charging, Reach 2, only usable in mounted combat"
+    },
+    {
+      "id": 11,
+      "type": "MEDIEVAL",
+      "name": "Mace",
+      "damage": "Str+d6",
+      "min_strength": "d6",
+      "weight": "4",
+      "cost": "100",
+      "notes": "-"
+    },
+    {
+      "id": 12,
+      "type": "MEDIEVAL",
+      "name": "Maul",
+      "damage": "Str+d10",
+      "min_strength": "d10",
+      "weight": "10",
+      "cost": "400",
+      "notes": "Two hands, +2 damage to break objects"
+    },
+    {
+      "id": 13,
+      "type": "MEDIEVAL",
+      "name": "Pike",
+      "damage": "Str+d8",
+      "min_strength": "d8",
+      "weight": "18",
+      "cost": "400",
+      "notes": "Reach 2, two hands"
+    },
+    {
+      "id": 14,
+      "type": "MEDIEVAL",
+      "name": "Rapier",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "2",
+      "cost": "150",
+      "notes": "Parry +1"
+    },
+    {
+      "id": 15,
+      "type": "MEDIEVAL",
+      "name": "Spear",
+      "damage": "Str+d6",
+      "min_strength": "d6",
+      "weight": "3",
+      "cost": "100",
+      "notes": "Reach 1. Parry +1 if used two-handed"
+    },
+    {
+      "id": 16,
+      "type": "MEDIEVAL",
+      "name": "Staff",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "4",
+      "cost": "10",
+      "notes": "Parry +1, Reach 1, two hands"
+    },
+    {
+      "id": 17,
+      "type": "MEDIEVAL",
+      "name": "Sword, Great",
+      "damage": "Str+d10",
+      "min_strength": "d10",
+      "weight": "6",
+      "cost": "400",
+      "notes": "Two hands"
+    },
+    {
+      "id": 18,
+      "type": "MEDIEVAL",
+      "name": "Sword, Long",
+      "damage": "Str+d8",
+      "min_strength": "d8",
+      "weight": "3",
+      "cost": "300",
+      "notes": "Basic swords and scimitars"
+    },
+    {
+      "id": 19,
+      "type": "MEDIEVAL",
+      "name": "Sword, Short",
+      "damage": "Str+d6",
+      "min_strength": "d6",
+      "weight": "2",
+      "cost": "100",
+      "notes": "Includes cavalry sabers"
+    },
+    {
+      "id": 20,
+      "type": "MEDIEVAL",
+      "name": "Warhammer",
+      "damage": "Str+d6",
+      "min_strength": "d6",
+      "weight": "2",
+      "cost": "250",
+      "notes": "Spiked, AP 1"
+    },
+    {
+      "id": 21,
+      "type": "MODERN",
+      "name": "Bangstick",
+      "damage": "3d6",
+      "min_strength": "d6",
+      "weight": "2",
+      "cost": "5"
+    },
+    {
+      "id": 22,
+      "type": "MODERN",
+      "name": "Bayonet",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "25",
+      "notes": "Str+d6 and Parry +1 attached to rifle, Reach 1, two hands"
+    },
+    {
+      "id": 23,
+      "type": "MODERN",
+      "name": "Billy Club/Baton",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "10",
+      "notes": "Often carried by law enforcement"
+    },
+    {
+      "id": 24,
+      "type": "MODERN",
+      "name": "Brass Knuckles",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "20",
+      "notes": "Do not count as a weapon for Unarmed Defender (page 109)"
+    },
+    {
+      "id": 25,
+      "type": "MODERN",
+      "name": "Chainsaw",
+      "damage": "2d6+4",
+      "min_strength": "d6",
+      "weight": "20",
+      "cost": "200",
+      "notes": "Critical Failure hits the user"
+    },
+    {
+      "id": 26,
+      "type": "MODERN",
+      "name": "Switchblade",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "0.5",
+      "cost": "10",
+      "notes": "−2 to be Noticed if hidden"
+    },
+    {
+      "id": 27,
+      "type": "MODERN",
+      "name": "Survival Knife",
+      "damage": "Str+d4",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "50",
+      "notes": "Basic tools in handle add +1 to Survival rolls"
+    },
+    {
+      "id": 28,
+      "type": "FUTURISTIC",
+      "name": "Molecular Knife",
+      "damage": "Str+d4+2",
+      "min_strength": "d4",
+      "weight": "0.5",
+      "cost": "250",
+      "notes": "AP 2, Cannot be thrown"
+    },
+    {
+      "id": 29,
+      "type": "FUTURISTIC",
+      "name": "Molecular Sword",
+      "damage": "Str+d8+2",
+      "min_strength": "d6",
+      "weight": "2",
+      "cost": "500",
+      "notes": "AP 4"
+    },
+    {
+      "id": 30,
+      "type": "FUTURISTIC",
+      "name": "Laser Sword",
+      "damage": "Str+d6+8",
+      "min_strength": "d4",
+      "weight": "2",
+      "cost": "1000",
+      "notes": "AP 12"
+    }
+  ],
+  "ranged_weapons": [
+    {
+      "id": 31,
+      "type": "MEDIEVAL",
+      "name": "Axe, Throwing",
+      "range": "3/6/12",
+      "damage": "Str+d6",
+      "ap": "-",
+      "rof": "1",
+      "min_strength": "d6",
+      "weight": "3",
+      "cost": "100"
+    },
+    {
+      "id": 32,
+      "type": "MEDIEVAL",
+      "name": "Bow",
+      "range": "12/24/48",
+      "damage": "2d6",
+      "ap": "-",
+      "rof": "1",
+      "min_strength": "d6",
+      "weight": "3",
+      "cost": "250"
+    },
+    {
+      "id": 33,
+      "type": "MEDIEVAL",
+      "name": "Crossbow (Hand Drawn)",
+      "range": "10/20/40",
+      "damage": "2d6",
+      "ap": "2",
+      "rof": "1",
+      "min_strength": "d6",
+      "weight": "5",
+      "cost": "250",
+      "notes": "Hand-drawn."
+    },
+    {
+      "id": 34,
+      "type": "MEDIEVAL",
+      "name": "Crossbow, Heavy",
+      "range": "15/30/60",
+      "damage": "2d8",
+      "ap": "2",
+      "rof": "1",
+      "min_strength": "d6",
+      "weight": "8",
+      "cost": "400",
+      "notes": "Requires a windlass to load. Reload 2."
+    },
+    {
+      "id": 35,
+      "type": "MEDIEVAL",
+      "name": "Dagger/Knife",
+      "range": "3/6/12",
+      "damage": "Str+d4",
+      "ap": "-",
+      "rof": "1",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "25"
+    },
+    {
+      "id": 36,
+      "type": "MEDIEVAL",
+      "name": "Long Bow",
+      "range": "15/30/60",
+      "damage": "2d6",
+      "ap": "1",
+      "rof": "1",
+      "min_strength": "d8",
+      "weight": "3",
+      "cost": "300"
+    },
+    {
+      "id": 37,
+      "type": "MEDIEVAL",
+      "name": "Net (Weighted)",
+      "range": "3/6/12",
+      "damage": "-",
+      "ap": "-",
+      "rof": "1",
+      "min_strength": "d4",
+      "weight": "8",
+      "cost": "50",
+      "notes": "A successful hit means the target is Entangled (see page 98). The net is Hardness 6 and vulnerable only to cutting attacks."
+    },
+    {
+      "id": 38,
+      "type": "MEDIEVAL",
+      "name": "Sling (Athletics (throwing))",
+      "range": "4/8/16",
+      "damage": "Str+d4",
+      "ap": "-",
+      "rof": "1",
+      "min_strength": "d4",
+      "weight": "1",
+      "cost": "10"
+    },
+    {
+      "id": 39,
+      "type": "MEDIEVAL",
+      "name": "Spear/Javelin",
+      "range": "3/6/12",
+      "damage": "Str+d6",
+      "ap": "-",
+      "rof": "1",
+      "min_strength": "d6",
+      "weight": "3",
+      "cost": "100"
+    },
+    {
+      "id": 40,
+      "type": "MODERN",
+      "name": "Compound Bow",
+      "range": "12/24/48",
+      "damage": "Str+d6",
+      "ap": "1",
+      "rof": "1",
+      "min_strength": "d6",
+      "weight": "3",
+      "cost": "200"
+    },
+    {
+      "id": 41,
+      "type": "MODERN",
+      "name": "Crossbow",
+      "range": "15/30/60",
+      "damage": "2d6",
+      "ap": "2",
+      "rof": "1",
+      "min_strength": "d6",
+      "weight": "7",
+      "cost": "300"
+    }
+  ],
+  "black_powder_weapons": [
+    {
+      "id": 42,
+      "type": "PISTOLS",
+      "name": "Flintlock Pistol",
+      "range": "5/10/20",
+      "damage": "2d6+1",
+      "ap": "-",
+      "rof": "1",
+      "shots": "-",
+      "min_strength": "d4",
+      "weight": "3",
+      "cost": "150"
+    },
+    {
+      "id": 43,
+      "type": "MUSKETS",
+      "name": "Brown Bess or Similar Muskets",
+      "range": "10/20/40",
+      "damage": "2d8",
+      "ap": "-",
+      "rof": "1",
+      "shots": "-",
+      "min_strength": "d6",
+      "weight": "15",
+      "cost": "300"
+    },
+    {
+      "id": 44,
+      "type": "MUSKETS",
+      "name": "Blunderbuss",
+      "range": "10/20/40",
+      "damage": "1–3d6",
+      "ap": "-",
+      "rof": "1",
+      "shots": "-",
+      "min_strength": "d6",
+      "weight": "12",
+      "cost": "300",
+      "notes": "Treat as Shotgun, see page 105."
+    },
+    {
+      "id": 45,
+      "type": "RIFLED MUSKETS",
+      "name": "Kentucky Rifle",
+      "range": "15/30/60",
+      "damage": "2d8",
+      "ap": "2",
+      "rof": "1",
+      "shots": "-",
+      "min_strength": "d6",
+      "weight": "8",
+      "cost": "300",
+      "notes": "Reload 4. The tight rifling requires four actions to reload instead of the usual three."
+    },
+    {
+      "id": 46,
+      "type": "RIFLED MUSKETS",
+      "name": "Springfield Model 1861",
+      "range": "15/30/60",
+      "damage": "2d8",
+      "ap": "-",
+      "rof": "1",
+      "shots": "-",
+      "min_strength": "d6",
+      "weight": "11",
+      "cost": "250"
+    }
+  ]
+}

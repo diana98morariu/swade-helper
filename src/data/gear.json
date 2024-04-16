@@ -1,0 +1,588 @@
+{
+  "common_gear": [
+    {
+      "id": 1,
+      "name": "Horse",
+      "cost": 300,
+      "weight": null,
+      "type": "ANIMALS & TACK",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "name": "War Horse",
+      "cost": 750,
+      "weight": null,
+      "type": "ANIMALS & TACK",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "name": "Saddle",
+      "cost": 10,
+      "weight": 10,
+      "type": "ANIMALS & TACK",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "Elaborate Saddle",
+      "cost": 50,
+      "weight": 10,
+      "type": "ANIMALS & TACK",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "cost": 50,
+      "weight": 2,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "name": "Bedroll (sleeping bag; winterized)",
+      "cost": 25,
+      "weight": 4,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "name": "Blanket",
+      "cost": 10,
+      "weight": 4,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "name": "Camera (disposable)",
+      "cost": 10,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "name": "Camera (regular)",
+      "cost": 75,
+      "weight": 2,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "name": "Camera (digital)",
+      "cost": 300,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "name": "Candle (one hour, 2″ radius)",
+      "cost": 1,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "name": "Canteen (waterskin)",
+      "cost": 5,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "name": "Crowbar",
+      "cost": 10,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "name": "First Aid Kit",
+      "cost": 10,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": "Three uses, see Healing on page 96."
+    },
+    {
+      "id": 15,
+      "name": "Flashlight (10″ beam)",
+      "cost": 20,
+      "weight": 3,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "name": "Flask (ceramic)",
+      "cost": 5,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "name": "Flint and Steel",
+      "cost": 3,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "name": "Goggles",
+      "cost": 20,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 19,
+      "name": "Grappling Hook",
+      "cost": 100,
+      "weight": 2,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "name": "Hammer",
+      "cost": 10,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "name": "Handcuffs (manacles)",
+      "cost": 15,
+      "weight": 2,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "name": "Lantern (4 hours, 4″ radius)",
+      "cost": 25,
+      "weight": 3,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 23,
+      "name": "Lighter",
+      "cost": 2,
+      "weight": null,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 24,
+      "name": "Lockpicks",
+      "cost": 200,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 25,
+      "name": "Medic Kit",
+      "cost": 100,
+      "weight": 4,
+      "type": "ADVENTURING GEAR",
+      "notes": "Five uses, +1 to Healing skill rolls; $25 to refill."
+    },
+    {
+      "id": 26,
+      "name": "Oil (for lantern; one pint)",
+      "cost": 2,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 27,
+      "name": "Quiver (holds 20 arrows/bolts)",
+      "cost": 25,
+      "weight": 2,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "name": "Rope, hemp (10″/20 yards)",
+      "cost": 10,
+      "weight": 15,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "name": "Rope, nylon (10″/20 yards)",
+      "cost": 10,
+      "weight": 3,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 30,
+      "name": "Shovel",
+      "cost": 5,
+      "weight": 5,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 31,
+      "name": "Soap",
+      "cost": 1,
+      "weight": 0.2,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 32,
+      "name": "Tool Kit",
+      "cost": 200,
+      "weight": 5,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 33,
+      "name": "Torch (one hour, 4″ radius)",
+      "cost": 5,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 34,
+      "name": "Umbrella",
+      "cost": 5,
+      "weight": 2,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 35,
+      "name": "Whistle",
+      "cost": 2,
+      "weight": null,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 36,
+      "name": "Whetstone",
+      "cost": 5,
+      "weight": 1,
+      "type": "ADVENTURING GEAR",
+      "notes": ""
+    },
+    {
+      "id": 37,
+      "name": "Boots, Hiking",
+      "cost": 100,
+      "weight": 2,
+      "type": "CLOTHING",
+      "notes": ""
+    },
+    {
+      "id": 38,
+      "name": "Camouflage Fatigues",
+      "cost": 20,
+      "weight": 3,
+      "type": "CLOTHING",
+      "notes": ""
+    },
+    {
+      "id": 39,
+      "name": "Clothing, Casual",
+      "cost": 20,
+      "weight": 2,
+      "type": "CLOTHING",
+      "notes": ""
+    },
+    {
+      "id": 40,
+      "name": "Clothing, Formal",
+      "cost": 200,
+      "weight": 3,
+      "type": "CLOTHING",
+      "notes": ""
+    },
+    {
+      "id": 41,
+      "name": "Winter Gear (cloak/parka)",
+      "cost": 200,
+      "weight": 3,
+      "type": "CLOTHING",
+      "notes": ""
+    },
+    {
+      "id": 42,
+      "name": "Winter Boots",
+      "cost": 100,
+      "weight": 1,
+      "type": "CLOTHING",
+      "notes": ""
+    },
+    {
+      "id": 43,
+      "name": "Desktop",
+      "cost": 800,
+      "weight": 20,
+      "type": "COMPUTERS & ELECTRONICS",
+      "notes": ""
+    },
+    {
+      "id": 44,
+      "name": "GPS",
+      "cost": 250,
+      "weight": 1,
+      "type": "COMPUTERS & ELECTRONICS",
+      "notes": ""
+    },
+    {
+      "id": 45,
+      "name": "Hand held",
+      "cost": 250,
+      "weight": 1,
+      "type": "COMPUTERS & ELECTRONICS",
+      "notes": ""
+    },
+    {
+      "id": 46,
+      "name": "Laptop",
+      "cost": 1200,
+      "weight": 5,
+      "type": "COMPUTERS & ELECTRONICS",
+      "notes": ""
+    },
+    {
+      "id": 47,
+      "name": "Bipod/Tripod",
+      "cost": 100,
+      "weight": 2,
+      "type": "FIREARMS ACCESSORIES",
+      "notes": "Takes an action to deploy. Negates Recoil and Min Str penalties."
+    },
+    {
+      "id": 48,
+      "name": "Laser/Red Dot Sight",
+      "cost": 150,
+      "weight": 1,
+      "type": "FIREARMS ACCESSORIES",
+      "notes": "+1 to Shooting at Short and Medium Range."
+    },
+    {
+      "id": 49,
+      "name": "Rifle Scope",
+      "cost": 100,
+      "weight": 2,
+      "type": "FIREARMS ACCESSORIES",
+      "notes": "Cancels 2 additional points of penalties when Aiming."
+    },
+    {
+      "id": 50,
+      "name": "Fast Food Meal",
+      "cost": 8,
+      "weight": 1,
+      "type": "FOOD",
+      "notes": ""
+    },
+    {
+      "id": 51,
+      "name": "Good Meal (restaurant)",
+      "cost": 15,
+      "weight": null,
+      "type": "FOOD",
+      "notes": ""
+    },
+    {
+      "id": 52,
+      "name": "MRE (Meal Ready to Eat)",
+      "cost": 10,
+      "weight": 1,
+      "type": "FOOD",
+      "notes": ""
+    },
+    {
+      "id": 53,
+      "name": "Trail Rations",
+      "cost": 10,
+      "weight": 5,
+      "type": "FOOD",
+      "notes": "5 meals; keeps one week."
+    },
+    {
+      "id": 54,
+      "name": "Pepper Spray",
+      "cost": 15,
+      "weight": 0.5,
+      "type": "PERSONAL DEFENSE",
+      "notes": "Use Shooting (or Fighting if engaged). No Range penalty but max range is 2″ (about 10 feet), Shots 5, victim must make Vigor roll at –2 or be Stunned (page 106)."
+    },
+    {
+      "id": 55,
+      "name": "Stun Gun",
+      "cost": 25,
+      "weight": 0.5,
+      "type": "PERSONAL DEFENSE",
+      "notes": "Uses Shooting. Range 1/2/4. Shots 3 before needing to be recharged for at least two hours. Victims must make a Vigor roll at –2 or be Stunned."
+    },
+    {
+      "id": 56,
+      "name": "Bug (Micro Transmitter)",
+      "cost": 30,
+      "weight": null,
+      "type": "SURVEILLANCE",
+      "notes": "12 hours of continuous use."
+    },
+    {
+      "id": 57,
+      "name": "Button Camera",
+      "cost": 50,
+      "weight": null,
+      "type": "SURVEILLANCE",
+      "notes": "12 hours of continuous use."
+    },
+    {
+      "id": 58,
+      "name": "Cellular Interceptor",
+      "cost": 650,
+      "weight": 5,
+      "type": "SURVEILLANCE",
+      "notes": ""
+    },
+    {
+      "id": 59,
+      "name": "Lineman’s Telephone",
+      "cost": 150,
+      "weight": 2,
+      "type": "SURVEILLANCE",
+      "notes": "Repair roll to tap into a phone line."
+    },
+    {
+      "id": 60,
+      "name": "Night Vision Goggles",
+      "cost": 500,
+      "weight": 3,
+      "type": "SURVEILLANCE",
+      "notes": "No penalty for Dim or Dark Illumination. For double the price, the goggles are “active” and ignore all Illumination penalties."
+    },
+    {
+      "id": 61,
+      "name": "Parabolic Microphone",
+      "cost": 750,
+      "weight": 4,
+      "type": "SURVEILLANCE",
+      "notes": "Hear whispers up to 200 yards distant."
+    },
+    {
+      "id": 62,
+      "name": "Telephone Tap",
+      "cost": 250,
+      "weight": null,
+      "type": "SURVEILLANCE",
+      "notes": ""
+    },
+    {
+      "id": 63,
+      "name": "Transmitter Detector",
+      "cost": 525,
+      "weight": 1,
+      "type": "SURVEILLANCE",
+      "notes": ""
+    }
+  ],
+
+  "ammo": [
+    {
+      "id": 64,
+      "name": "Arrows/Bolts",
+      "cost": "1/2 arrows or 5 arrows",
+      "weight": "1 lbs/5 arrows",
+      "notes": "Arrows for bows, bolts for crossbows"
+    },
+    {
+      "id": 65,
+      "name": "Bullets - Small",
+      "cost": "10 rounds",
+      "weight": "1 lbs/50",
+      "notes": ".22 to .32 caliber"
+    },
+    {
+      "id": 66,
+      "name": "Bullets - Medium",
+      "cost": "20 rounds",
+      "weight": "2 lbs/50",
+      "notes": "9mm to .45 caliber"
+    },
+    {
+      "id": 67,
+      "name": "Bullets - Large",
+      "cost": "50 rounds",
+      "weight": "15 lbs/50",
+      "notes": ".50 caliber and larger rounds"
+    },
+    {
+      "id": 68,
+      "name": "Laser Batteries - Pistol",
+      "cost": "20 batteries",
+      "weight": "0.25",
+      "notes": "Provides one full magazine for the listed weapon"
+    },
+    {
+      "id": 69,
+      "name": "Laser Batteries - Rifle, SMG",
+      "cost": "20 batteries",
+      "weight": "0.5",
+      "notes": "Provides one full magazine for the listed weapon"
+    },
+    {
+      "id": 70,
+      "name": "Laser Batteries - Gatling",
+      "cost": "50 batteries",
+      "weight": "4",
+      "notes": "Provides one full magazine for the listed weapon"
+    },
+    {
+      "id": 71,
+      "name": "Shot (w/powder)",
+      "cost": "1/10 shots",
+      "weight": "0.5 lbs/10",
+      "notes": "For black powder weapons"
+    },
+    {
+      "id": 72,
+      "name": "Shotgun Shells - Standard buckshot",
+      "cost": "15 shells",
+      "weight": "1.5 lbs/25",
+      "notes": "See page 105."
+    },
+    {
+      "id": 73,
+      "name": "Shotgun Shells - Slugs",
+      "cost": "20 shells",
+      "weight": "1.5 lbs/25",
+      "notes": "See page 105."
+    },
+    {
+      "id": 74,
+      "name": "Sling stones",
+      "cost": "2/20 stones",
+      "weight": "1 lbs/20",
+      "notes": ""
+    }
+  ]
+}
